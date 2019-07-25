@@ -26,5 +26,6 @@ int main(int argc, char* argv[])
 	}
 	system("pause");
 	printf("dearStone\n");
+	printf("test something");
 	return 0;
 }
