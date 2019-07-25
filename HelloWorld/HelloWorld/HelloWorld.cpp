@@ -25,5 +25,6 @@ int main(int argc, char* argv[])
 		printf("-----------------------------------------\n");
 	}
 	system("pause");
+	printf("dearStone\n");
 	return 0;
 }
